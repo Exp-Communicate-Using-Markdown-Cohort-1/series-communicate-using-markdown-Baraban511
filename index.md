@@ -5,3 +5,5 @@
 ```
 Npm js
 ```
+- [x] Be cool
+- [ ] Don' waste time
